@@ -12,6 +12,7 @@ This branch is for building of the LineageOS 14.1.
 ### Working:
  * Wi-Fi
  * Wi-Fi tethering
+ * Hotspot (Open Hotspot)
  * GPS
  * Bluetooth
  * AGPS
@@ -34,9 +35,11 @@ This branch is for building of the LineageOS 14.1.
  * HW Decoder
 
 ### Not Working:
-* Hotspot (Open Hotspot)
+* None 
 
 ### Thanks to:
  * Daniel_hk
  * Adam Belamri
  * Sandeep Sethi
+ * Rohan Taneja
+ * Testers
